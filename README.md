@@ -1,4 +1,4 @@
-![https://github.com/hexlet-boilerplates/python-package/actions](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
+![Test.yml](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
 
 No code No plan
 experiment with amend
