@@ -1,4 +1,4 @@
-![Test.yml](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
+![Test.yml](https://https://github.com/dev-fajero/hexlet-git/actions/badge.svg)
 
 No code No plan
 experiment with amend
